@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dora Lukacevic
+title: Dora V. Lukacevic
 subtitle: Music Educator
 use-site-title: true
 ---
