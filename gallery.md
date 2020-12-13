@@ -5,4 +5,4 @@ title: Performance Gallery
 
 ### Picture 1
 
-![Caption]('/img/dora/dora_portfolio/gallery/tammies3.jpg')
+![Caption](/img/dora/dora_portfolio/gallery/tammies3.jpg){:class="img-responsive"}
