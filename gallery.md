@@ -1,6 +1,7 @@
 ---
-layout: page {% include image-gallery.html folder="/img/dora/dora_portfolio/gallery" %}
+layout: page
 title: Performance Gallery
+{% include image-gallery.html folder="/img/dora/dora_portfolio/gallery" %}
 ---
 
 ### Picture 1
