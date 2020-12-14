@@ -24,3 +24,7 @@ title: About me
 [Ajde Jano](/img/dora_portfolio/aboutme/Ajde Jano final project ___.pdf)
 
 [Lana del Ray](/img/dora_portfolio/aboutme/Video_Games(portfolio).pdf)
+
+### Letters of Recommendation
+
+[Elementary](/img/dora_portfolio/aboutme/Dora Recommendation.pdf)
