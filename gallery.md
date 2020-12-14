@@ -7,9 +7,7 @@ title: Performance Gallery
 
 ![Satans Fall](/img/dora_portfolio/gallery/satansfall.png)
 ###### (Second Row from the Top, First on the Left)
-
-
-
+######
 
 ### Duquesne Tamburitzans
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies24.jpg)
@@ -23,7 +21,7 @@ title: Performance Gallery
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies3.jpg)
 
 
-
+###
 
 ### Camp California, Croatia
 ![Camp California, Croatia](/img/dora_portfolio/gallery/camp cal 4.jpg)
