@@ -9,7 +9,7 @@ title: About me
 
 [Bachelor of Arts](/img/dora_portfolio/aboutme/diploma.jpg)
 
-### Evaluations
+### Student Teaching Evaluations
 
 [Elementary Observation 1](/img/dora_portfolio/aboutme/Dora L. Observation Form 1.pdf)
 
