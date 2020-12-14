@@ -3,7 +3,7 @@ layout: page
 title: Photo Gallery
 ---
 
-### Pittsburgh Mendelssohn Choir – Satan's Fall
+### Mendelssohn Choir of Pittsburgh – Satan's Fall
 
 ![Satans Fall](/img/dora_portfolio/gallery/satansfall.png)
 ###### (Second Row from the Top, First on the Left)          
