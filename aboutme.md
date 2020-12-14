@@ -3,22 +3,24 @@ layout: page
 title: About me
 ---
 
-### Music Education Resume
+### Experience
 
-[Music Education Resume](/img/dora_portfolio/aboutme/)
+[Music Education Resume](/img/dora_portfolio/aboutme/Lukacevic_Resume.pdf)
 
-### Bachelor's in Music Degree
+[Bachelor's in Music Degree](/img/dora_portfolio/aboutme/diploma.jpg)
 
-[Bachelor's in Music Degree](/img/dora_portfolio/aboutme/)
+### Evaluations
 
-### Certificate in Music Education
+[Elementary Observation 1](/img/dora_portfolio/aboutme/Dora L. Observation Form 1.pdf)
 
-[Certificate in Music Education](/img/dora_portfolio/aboutme/)
+[Elementary Observation 2](/img/dora_portfolio/aboutme/Dora L.-OBSERVATION FORM 2.pdf)
 
-### Student Teacher Evaluation
+[High School Observation 1](/img/dora_portfolio/aboutme/CMU Practice Teaching Observation Form1 2020.pdf)
 
-[Student Teacher Evaluation](/img/dora_portfolio/aboutme/)
+[High School Observation 2](/img/dora_portfolio/aboutme/CMU Practice Teaching Observation Form 2020.pdf)
 
-[](/img/dora_portfolio/aboutme/)
+### Compositions
 
-[](/img/dora_portfolio/aboutme/)
+[Ajde Jano](/img/dora_portfolio/aboutme/Ajde Jano final project ___.pdf)
+
+[Lana del Ray](/img/dora_portfolio/aboutme/Video_Games(portfolio).pdf)
