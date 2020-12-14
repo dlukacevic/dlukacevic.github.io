@@ -14,8 +14,6 @@ title: Photo Gallery
 ###### (First on the Right)
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies 5.jpg)
 
-![Tamburitzans](/img/dora_portfolio/gallery/tammies2 copy.jpg)
-
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies6.jpg)
 
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies3.jpg)
