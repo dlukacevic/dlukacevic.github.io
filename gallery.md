@@ -3,14 +3,14 @@ layout: page
 title: Photo Gallery
 ---
 
-### La Vie En Rose (Cover) – Duquesne Tamburitzans
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hrRejCEctDo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Pittsburgh Mendelssohn Choir – Satan's Fall
 
 ![Satans Fall](/img/dora_portfolio/gallery/satansfall.png)
-###### (Second Row from the Top, First on the Left)           
+###### (Second Row from the Top, First on the Left)          
+
+### La Vie En Rose (Cover) – Duquesne Tamburitzans
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hrRejCEctDo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ### Duquesne Tamburitzans
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies24.jpg)
