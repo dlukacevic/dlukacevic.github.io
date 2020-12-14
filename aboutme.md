@@ -7,7 +7,7 @@ title: About me
 
 [Music Education Resume](/img/dora_portfolio/aboutme/Lukacevic_Resume.pdf)
 
-[Bachelor's in Music Degree](/img/dora_portfolio/aboutme/diploma.jpg)
+[Bachelor of Arts](/img/dora_portfolio/aboutme/diploma.jpg)
 
 ### Evaluations
 
