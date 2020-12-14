@@ -2,11 +2,10 @@
 layout: page
 title: Dora V. Lukacevic
 subtitle: Music Educator
-googlefonts: "Monoton"
 show-avatar: true
 ---
 
-## Teaching Philosphy
+## <span style="font-family:Volkorn">Teaching Philosphy</span>
 
 #### <span style="font-family:Volkorn">Vocal and instrumental music education should be an essential component of any school curriculum because it changes students’ lives. It teaches fundamental skills such as aural development, critical thinking, language development, discipline, and communication. Similar to how subjects like Mathematics and English exercise brain activity, music can enhance the brain in its entirety and influence proficiency in all subjects. Music education also provides space for students to engage with themselves in a more intuitive and creative way than other subjects. As stated by Victor Hugo; "Music expresses that which cannot be said and on which it is impossible to be silent."</span>
 #### <span style="font-family:Volkorn"> Students need a place to express themselves especially with the challenges adolescents face on a regular basis. Music class allows us to look inward and discover our deepest nature. The opportunity to explore oneself this way should be a moral right for any student of any background. Music education carves students a path into their own individualism while simultaneously growing their academic capacities. Music class is more about the experience and is of a different world of thought than other standard subjects. Music educators have the capability to not only teach music on a surface level but on an intellectual and emotional level; it should absolutely be taught within, though not limited to, a formal classroom setting. This can give students the ability to apply their musical knowledge to their everyday lives and realize how relevant music is in our world.</span>
