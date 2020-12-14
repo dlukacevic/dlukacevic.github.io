@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Performance Gallery
-{% include image-gallery.html folder="/img/dora/dora_portfolio/gallery" %}
 ---
 
 ### Picture 1
@@ -10,4 +9,12 @@ title: Performance Gallery
 
 ![Caption](/img/dora_portfolio/gallery/tammies6.jpg)
 
-https://github.com/dlukacevic/dlukacevic.github.io/blob/master/img/dora_portfolio/gallery/tammies3.jpg
+![Caption](/img/dora_portfolio/gallery/tammies3.jpg)
+
+![Caption](/img/dora_portfolio/gallery/camp cal 4.jpg)
+
+![Caption](/img/dora_portfolio/gallery/camp cal 5.jpg)
+
+![Caption](/img/dora_portfolio/gallery/camp cal 9.jpg)
+
+{% include image-gallery.html folder="/img/dora/dora_portfolio/gallery" %}
