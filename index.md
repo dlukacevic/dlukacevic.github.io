@@ -1,7 +1,7 @@
 ---
 layout: page
-title: <span style="font-family:Volkorn">Dora V. Lukacevic</span>
-subtitle: <span style="font-family:Volkorn">Music Educator</span>
+<span style="font-family:Volkorn">title: Dora V. Lukacevic</span>
+<span style="font-family:Volkorn">subtitle: Music Educator</span>
 show-avatar: true
 googlefonts: Volkorn
 ---
