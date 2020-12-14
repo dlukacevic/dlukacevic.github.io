@@ -6,7 +6,7 @@ title: Photo Gallery
 ### Mendelssohn Choir of Pittsburgh – Stewart Copeland's _Satan's Fall_
 
 ![Satans Fall](/img/dora_portfolio/gallery/satansfall.png)
-###### (Second Row from the Top, First on the Left)          
+###### (Second Row from the Top, First from the Left)          
 
 ### La Vie En Rose (Cover) – Duquesne Tamburitzans
 
@@ -15,7 +15,7 @@ title: Photo Gallery
 ### Duquesne Tamburitzans
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies24.jpg)
 
-###### (First on the Right)
+###### (First from the Right)
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies 5.jpg)
 
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies6.jpg)
