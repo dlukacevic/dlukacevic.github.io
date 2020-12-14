@@ -25,7 +25,6 @@ title: Photo Gallery
 
 
 ### Camp California, Croatia
-![Camp California, Croatia](/img/dora_portfolio/gallery/camp cal 4.jpg)
 
 ![Camp California, Croatia](/img/dora_portfolio/gallery/camp cal 5.jpg)
 
