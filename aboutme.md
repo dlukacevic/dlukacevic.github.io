@@ -19,12 +19,12 @@ title: About me
 
 [High School Observation 2](/img/dora_portfolio/aboutme/CMU Practice Teaching Observation Form 2020.pdf)
 
+### Letters of Recommendation
+
+[Elementary](/img/dora_portfolio/aboutme/Dora Recommendation.pdf)
+
 ### Compositions
 
 [Ajde Jano](/img/dora_portfolio/aboutme/Ajde Jano final project ___.pdf)
 
 [Lana del Rey](/img/dora_portfolio/aboutme/Video_Games(portfolio).pdf)
-
-### Letters of Recommendation
-
-[Elementary](/img/dora_portfolio/aboutme/Dora Recommendation.pdf)
