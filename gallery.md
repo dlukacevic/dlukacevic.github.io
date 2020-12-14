@@ -6,8 +6,7 @@ title: Performance Gallery
 ### Pittsburgh Mendelssohn Choir – Satan's Fall
 
 ![Satans Fall](/img/dora_portfolio/gallery/satansfall.png)
-###### (Second Row from the Top, First on the Left)
-######
+###### (Second Row from the Top, First on the Left)           
 
 ### Duquesne Tamburitzans
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies24.jpg)
@@ -20,8 +19,7 @@ title: Performance Gallery
 
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies3.jpg)
 
-
-###
+&nbsp   
 
 ### Camp California, Croatia
 ![Camp California, Croatia](/img/dora_portfolio/gallery/camp cal 4.jpg)
