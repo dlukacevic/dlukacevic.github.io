@@ -3,18 +3,31 @@ layout: page
 title: Performance Gallery
 ---
 
-### Picture 1
+### Pittsburgh Mendelssohn Choir – Satan's Fall
+
+![Satans Fall](/img/dora_portfolio/gallery/satansfall.png)
+###### (Second Row from the Top, First on the Left)
 
 
+### Duquesne Tamburitzans
 
-![Caption](/img/dora_portfolio/gallery/tammies6.jpg)
+![Tamburitzans](/img/dora_portfolio/gallery/tammies24.jpg)
 
-![Caption](/img/dora_portfolio/gallery/tammies3.jpg)
+![Tamburitzans](/img/dora_portfolio/gallery/tammies 5.jpg)
 
-![Camp California, Croatia]('/img/dora_portfolio/gallery/camp cal 4.jpg')
+![Tamburitzans](/img/dora_portfolio/gallery/tammies2 copy.jpg)
 
-![Camp California, Croatia]('/img/dora_portfolio/gallery/camp cal 5.jpg')
+![Tamburitzans](/img/dora_portfolio/gallery/tammies6.jpg)
 
-![Camp California, Croatia]('/img/dora_portfolio/gallery/camp cal 9.jpg')
+![Tamburitzans](/img/dora_portfolio/gallery/tammies3.jpg)
 
-{% include image-gallery.html folder="/img/dora/dora_portfolio/gallery" %}
+
+### Camp California, Croatia
+
+![Camp California, Croatia](/img/dora_portfolio/gallery/camp cal 4.jpg)
+
+![Camp California, Croatia](/img/dora_portfolio/gallery/camp cal 5.jpg)
+
+![Camp California, Croatia](/img/dora_portfolio/gallery/camp cal 9.jpg)
+
+
