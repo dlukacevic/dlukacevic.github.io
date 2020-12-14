@@ -3,6 +3,7 @@ layout: page
 title: Dora V. Lukacevic
 subtitle: Music Educator
 show-avatar: true
+googlefonts: Volkorn
 ---
 
 ## <span style="font-family:Volkorn">Teaching Philosphy</span>
