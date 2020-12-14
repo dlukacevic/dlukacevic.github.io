@@ -25,6 +25,6 @@ title: About me
 
 ### Compositions
 
-[Ajde Jano](/img/dora_portfolio/aboutme/Ajde Jano final project ___.pdf)
+[Ajde Jano (Wind Ensemble)](/img/dora_portfolio/aboutme/Ajde Jano final project ___.pdf)
 
-[Lana del Rey](/img/dora_portfolio/aboutme/Video_Games(portfolio).pdf)
+[Lana del Rey (SATB)](/img/dora_portfolio/aboutme/Video_Games(portfolio).pdf)
