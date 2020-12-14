@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Performance Gallery
+title: Photo Gallery
 ---
 
 ### Pittsburgh Mendelssohn Choir – Satan's Fall
