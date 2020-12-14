@@ -9,7 +9,7 @@ title: Lesson Plans
 
 [Rhythms](/img/dora_portfolio/lesson_plans/lesson for 11_11_20 (2).pdf)
 
-[Thanksgiving Rhythms](/img/dora_portfolio/lesson_plans/Lesson for 11/24/20.pdf)
+[Thanksgiving Rhythms](/img/dora_portfolio/lesson_plans/Lesson for 11:24:20.pdf)
 
 [Shoo Turkey](/img/dora_portfolio/lesson_plans/Week of 11_16_20 - 1st, 2nd - lesson 1.pdf)
 
