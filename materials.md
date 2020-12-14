@@ -17,6 +17,10 @@ title: Class Materials
 
 [Music Forms](/img/dora_portfolio/materials/Forms.pptx.pdf)
 
+[B-A-G Worksheet](/img/dora_portfolio/materials/B-A-G Worksheet.jpg)
+
+[Solfege Hand Signs Diagram](/img/dora_portfolio/materials/handsigns.jpg)
+
 ### High School
 
 [The Cultures of Classical Music](/img/dora_portfolio/materials/ClassicalMusicLesson_10_13_20.pdf)
