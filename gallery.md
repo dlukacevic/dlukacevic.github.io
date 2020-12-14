@@ -9,10 +9,11 @@ title: Performance Gallery
 ###### (Second Row from the Top, First on the Left)
 
 
+
+
 ### Duquesne Tamburitzans
-
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies24.jpg)
-
+###### (First on the Right)
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies 5.jpg)
 
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies2 copy.jpg)
@@ -22,8 +23,9 @@ title: Performance Gallery
 ![Tamburitzans](/img/dora_portfolio/gallery/tammies3.jpg)
 
 
-### Camp California, Croatia
 
+
+### Camp California, Croatia
 ![Camp California, Croatia](/img/dora_portfolio/gallery/camp cal 4.jpg)
 
 ![Camp California, Croatia](/img/dora_portfolio/gallery/camp cal 5.jpg)
